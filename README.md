@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building Full Stack Website.
 - 🌱 I’m currently learning Machine Learning with Python
-- 👯 I’m looking to collaborate on Python and Machine Learning.
+- 👯 I’m looking to collaborate on Web Development and Machine Learning.
 - 💬 Ask me about anything
-- 📫 How to reach me: salmanmaken10@gmail.com
+- 📫 How to reach me: salmanmaken57@gmail.com
