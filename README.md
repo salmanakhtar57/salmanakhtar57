@@ -7,7 +7,6 @@ Web Developer | Machine Learning Enthusiast | Always Learning
 I am an undergraduate CS student with a passion for Artificial Intelligence and Machine Learning. Currently working on building Full Stack Website.
 
 * 🌍  I'm based in Pakistan
-* 🖥️  See my portfolio at [All my links](http://salmanakhtar.bio.link/)
 * ✉️  You can contact me at [salmanmaken10@gmail.com](mailto:salmanmaken10@gmail.com)
 * 🧠  I'm learning Machine Learning and Web Development
 * 🤝  I'm open to collaborating on Python and Web related projects.
@@ -16,7 +15,7 @@ I am an undergraduate CS student with a passion for Artificial Intelligence and 
 <a href="https://www.twitter.com/salman_codes" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/salman_codes?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/salmanakhtar57" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/salmanakhtar57?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>[![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/salmanakhtar?style=for-the-badge)](https://peerlist.io/salmanakhtar)
+src="https://img.shields.io/github/followers/salmanakhtar57?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -43,7 +42,7 @@ src="https://img.shields.io/github/followers/salmanakhtar57?logo=github&style=fo
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/salmanakhtar57" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/salman-akhtar-09a210198" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@salman1234" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/salman_codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/salmanakhtar57" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/salman-akhtar-09a210198" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@salman1234" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/salman_codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>[![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/salmanakhtar?style=for-the-badge)](https://peerlist.io/salmanakhtar)
 
 ### Badges
 
