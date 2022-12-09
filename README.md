@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer | Machine Learning Enthusiast | Always Learning
 -------------------------------------------------------------
 
-I am an undergraduate CS student with a passion for Artificial Intelligence and Machine Learning. Currently working on building Full Stack Website.
+I am an undergraduate CS student with a passion for Artificial Intelligence and Machine Learning. Currently learning Web Development.
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [salmanmaken10@gmail.com](mailto:salmanmaken10@gmail.com)
-* 🧠  I'm learning Machine Learning and Web Development
+* 🧠  I'm learning Web Development
 * 🤝  I'm open to collaborating on Python and Web related projects.
 * ⚡  Fun fact: I am an introvert and read books.
 
@@ -43,9 +43,9 @@ src="https://img.shields.io/github/followers/salmanakhtar57?logo=github&style=fo
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/salmanakhtar57" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
- <a href="https://www.linkedin.com/in/salman-akhtar-09a210198" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
- <a href="http://www.medium.com/@salman1234" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> 
- <a href="https://www.twitter.com/salman_codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+  <a href="https://www.linkedin.com/in/salman-akhtar-09a210198" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+  <a href="http://www.medium.com/@salman1234" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> 
+  <a href="https://www.twitter.com/salman_codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
