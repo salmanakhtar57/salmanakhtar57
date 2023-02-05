@@ -15,6 +15,7 @@ I am an undergraduate CS student with a passion for Artificial Intelligence and 
 <a href="https://www.github.com/salmanakhtar57" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/salmanakhtar57?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/salman_codes" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/salman_codes?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+[![Peerlist](https://github-readme-badge.peerlist.io/api/salmanakhtar?style=for-the-badge)](https://peerlist.io/salmanakhtar)
 
 ### Languages and Tools
 
