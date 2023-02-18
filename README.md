@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Salman Akhtar
 =====================================================================================================================================
 
-Web Developer | Machine Learning Enthusiast | Always Learning
+Python Developer | Machine Learning Enthusiast | Always Learning
 -------------------------------------------------------------
 
 I am an undergraduate CS student with a passion for Artificial Intelligence and Machine Learning. Currently working on building Full Stack Website.
