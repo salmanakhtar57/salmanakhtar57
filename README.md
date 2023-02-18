@@ -8,7 +8,7 @@ I am an undergraduate CS student with a passion for Artificial Intelligence and 
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [salmanmaken10@gmail.com](mailto:salmanmaken10@gmail.com)
-* 🧠  I'm learning Machine Learning and Web Development
+* 🧠  I'm learning Web Development with Python.
 * 🤝  I'm open to collaborating on Python and Web related projects.
 * ⚡  Fun fact: I am an introvert and read books.
 
