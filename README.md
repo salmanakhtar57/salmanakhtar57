@@ -35,17 +35,8 @@ I am an undergraduate CS student with a passion for Artificial Intelligence and 
 
 <p align="left"> <a href="https://www.github.com/salmanakhtar57" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/salman-akhtar-09a210198" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/salman_akhtar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@salman1234" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/salman_codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### My GitHub Stats
 
-![](https://github-readme-stats-eight-theta.vercel.app/api?username=salmanakhtar57&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-<a href="http://www.github.com/salmanakhtar57"><img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanakhtar57&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>  
-
-<a href="https://github.com/salmanakhtar57" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanakhtar57&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<!-- <a href="http://www.github.com/salmanakhtar57"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=salmanakhtar57&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
-
-
-## Github Statistics
+### Github Statistics
 
 <div align="center" >
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=salmanakhtar57&show_icons=true&theme=algolia"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanakhtar57&layout=compact&theme=algolia">
