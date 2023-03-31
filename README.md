@@ -24,8 +24,9 @@ I am an undergraduate CS student with a passion for Artificial Intelligence and 
 
 ### Github Statistics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmanakhtar57&show_icons=true&theme=algolia" alt="salmanakhtar57" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmanakhtar57&show_icons=true&theme=algolia" alt="salmanakhtar57" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanakhtar57&show_icons=true&theme=algolia" alt="salmanakhtar57" /></p>
+<div align="center" >
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=salmanakhtar57&show_icons=true&theme=algolia"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanakhtar57&layout=compact&theme=algolia">
+</div> 
+<div align="center">
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanakhtar57&show_icons=true&theme=algolia"></div>
+<br>
