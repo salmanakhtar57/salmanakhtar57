@@ -25,6 +25,9 @@ I am an undergraduate CS student with a passion for Artificial Intelligence and 
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to run your first Hello World in Flask](https://salman1234.medium.com/how-to-run-your-first-hello-world-in-flask-6210202bfdd5?source=rss-df08ba2492c7------2)
+- [The art of problem-solving in code](https://levelup.gitconnected.com/the-art-of-problem-solving-in-code-f15bce434487?source=rss-df08ba2492c7------2)
+- [Rock Paper Scissors in Python](https://salman1234.medium.com/rock-paper-scissors-in-python-6f9ce85820b2?source=rss-df08ba2492c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Github Statistics
