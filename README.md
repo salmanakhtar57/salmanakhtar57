@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python Developer | Machine Learning Enthusiast | Always Learning
 -------------------------------------------------------------
 
-I am an undergraduate CS student with a passion for Artificial Intelligence and Machine Learning. Currently working on building Full Stack Website.
-
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [salmanmaken10@gmail.com](mailto:salmanmaken10@gmail.com)
 * 🧠  I'm learning Web Development with Python.
