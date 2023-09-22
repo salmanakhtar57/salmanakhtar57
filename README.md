@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Salman Akhtar
 =====================================================================================================================================
 
-Python Developer | Machine Learning Enthusiast | Always Learning
+Learning Data Sience | Machine Learning Enthusiast | Always Learning
 -------------------------------------------------------------
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [salmanmaken10@gmail.com](mailto:salmanmaken10@gmail.com)
 * 🧠  I'm learning Web Development with Python.
-* 🤝  I'm open to collaborating on Python and Web related projects.
+* 🤝  I'm open to collaborating on Python and Web-related projects.
 * ⚡  Fun fact: I am an introvert and read books.
 
 ### Languages and Tools
