@@ -14,7 +14,7 @@ Python Developer | Machine Learning Enthusiast | Always Learning
 
 [GitHub](https://github.com/salmanakhtar57) •
 [LinkedIn](https://www.linkedin.com/in/salman-akhtar-09a210198/) •
-[X / Twitter](https://twitter.com/salman_codes) •
+[X](https://twitter.com/salman_codes) •
 [Medium](https://medium.com/@salman1234) •
 [Substack](https://substack.com/@salman1)
 
