@@ -18,7 +18,7 @@ Python Developer | Machine Learning Enthusiast | Always Learning
 [Medium](https://medium.com/@salman1234) •
 [Substack](https://substack.com/@salman1)
 
-## Blog posts
+## Technical Articles
 
 <!-- BLOG-POST-LIST:START -->
 - [How to run your first Hello World in Flask](https://salman1234.medium.com/how-to-run-your-first-hello-world-in-flask-6210202bfdd5?source=rss-df08ba2492c7------2)
